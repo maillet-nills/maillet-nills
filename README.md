@@ -1,4 +1,4 @@
-## Hi, i'm Nills ! 👋
+## 👋 Hi, i'm Nills !
 
 I am a computer science student passionate about web and software development.  
 I love creating clean projects, learning new technologies, and sharing knowledge.
