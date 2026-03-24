@@ -17,11 +17,15 @@ I love creating clean projects, learning new technologies, and sharing knowledge
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maillet-nills&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maillet-nills&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6&border_radius=12&card_width=600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maillet-nills&layout=compact&theme=dark" alt="Top Languages">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maillet-nills&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maillet-nills&hide_border=true&background=1a1b27&ring=f7768e&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=f7768e&sideNums=bb9af7&border_radius=12" />
 </p>
 
 ---
