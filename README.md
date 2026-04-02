@@ -11,7 +11,7 @@ French computer science student (BTS SIO – SLAM) based in Toulouse, passionate
 ## 🚀 Learning & Certifications
 
 - 🔄 Certifications - AnthropicAI
-- 🔄 Introduction to Cybersecurity - Cisco NetAcad
+- ✅ Introduction to Cybersecurity - Cisco NetAcad
 - 🔄 Full Stack curriculum - The Odin Project
 
 ## 🛠️ Tech Stack
