@@ -64,12 +64,6 @@ French computer science student (BTS SIO – SLAM) based in Toulouse, passionate
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maillet-nills&layout=compact&langs_count=6&hide_border=true&bg_color=0d1a0f&title_color=2d9e5f&text_color=7abf8e&border_radius=12&card_width=600" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maillet-nills&bg_color=0d1a0f&color=2d9e5f&line=3dbd72&point=1f7a45&area=true&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=maillet-nills&hide_border=true&background=0d1a0f&ring=2d9e5f&fire=3dbd72&currStreakLabel=2d9e5f&sideLabels=7abf8e&dates=7abf8e&currStreakNum=2d9e5f&sideNums=3dbd72&border_radius=12" />
 </p>
 
